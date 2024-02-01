@@ -1,0 +1,25 @@
+html{
+    background-color: rgb(178, 164, 188);
+}
+
+.div{
+    background-color: rgb(89, 89, 214);
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 200px;
+}
+
+
+.magaca{
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+  text-decoration: none;
+  border-radius: 20px;
+  border-style: none;
+  background-color: rgb(178, 164, 188);
+  text-align: center;
+  color: aliceblue;
+}
